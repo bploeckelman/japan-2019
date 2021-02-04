@@ -76,8 +76,14 @@ svg circle:hover, svg circle.active {
   opacity: 0.1;
   transition: opacity 0.4s ease-in;
   display: inline;
+  padding-top: 1em;
 }
 
 .tag.active {
   opacity: 1;
+  background: silver;
+}
+
+.tag > p {
+  font-size: smaller;
 }
