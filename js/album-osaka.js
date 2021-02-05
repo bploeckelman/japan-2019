@@ -71,6 +71,33 @@ $(function () {
       , { src: "IMG_20191027_174422.jpg", srct: "thumbs/IMG_20191027_174422.png", tags: "osaka", title: "" }
       , { src: "IMG_20191027_185104.jpg", srct: "thumbs/IMG_20191027_185104.png", tags: "osaka", title: "" }
       , { src: "IMG_20191027_193029.jpg", srct: "thumbs/IMG_20191027_193029.png", tags: "osaka", title: "" }
+
+      // arashiyama & nara
+
+      , { src: "IMG_20191028_104620.jpg", srct: "thumbs/IMG_20191028_104620.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_112027.jpg", srct: "thumbs/IMG_20191028_112027.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_112658.jpg", srct: "thumbs/IMG_20191028_112658.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_112925.jpg", srct: "thumbs/IMG_20191028_112925.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_113118.jpg", srct: "thumbs/IMG_20191028_113118.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_113555.jpg", srct: "thumbs/IMG_20191028_113555.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_120707.jpg", srct: "thumbs/IMG_20191028_120707.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_124319.jpg", srct: "thumbs/IMG_20191028_124319.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_125113.jpg", srct: "thumbs/IMG_20191028_125113.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_130703.jpg", srct: "thumbs/IMG_20191028_130703.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_130827.jpg", srct: "thumbs/IMG_20191028_130827.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_131328.jpg", srct: "thumbs/IMG_20191028_131328.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_131426.jpg", srct: "thumbs/IMG_20191028_131426.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_131442.jpg", srct: "thumbs/IMG_20191028_131442.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_154607.jpg", srct: "thumbs/IMG_20191028_154607.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_154936.jpg", srct: "thumbs/IMG_20191028_154936.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_155558.jpg", srct: "thumbs/IMG_20191028_155558.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_161308.jpg", srct: "thumbs/IMG_20191028_161308.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_161619.jpg", srct: "thumbs/IMG_20191028_161619.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_161841~2.jpg", srct: "thumbs/IMG_20191028_161841~2.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_162102.jpg", srct: "thumbs/IMG_20191028_162102.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_163000.jpg", srct: "thumbs/IMG_20191028_163000.png", tags: "nara", title: "" }
+      , { src: "IMG_20191028_164256~2.jpg", srct: "thumbs/IMG_20191028_164256~2.png", tags: "nara", title: "" }
+
     ]
   })
 });
