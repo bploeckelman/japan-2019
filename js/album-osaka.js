@@ -54,6 +54,8 @@ $(function () {
 
     // content items
     items: [
+      // osaka
+
         { src: "IMG_20191026_170447.jpg", srct: "thumbs/IMG_20191026_170447.png", tags: "osaka", title: "" }
       , { src: "IMG_20191026_171145.jpg", srct: "thumbs/IMG_20191026_171145.png", tags: "osaka", title: "" }
       , { src: "IMG_20191026_194652.jpg", srct: "thumbs/IMG_20191026_194652.png", tags: "osaka", title: "" }
@@ -97,6 +99,47 @@ $(function () {
       , { src: "IMG_20191028_162102.jpg", srct: "thumbs/IMG_20191028_162102.png", tags: "nara", title: "" }
       , { src: "IMG_20191028_163000.jpg", srct: "thumbs/IMG_20191028_163000.png", tags: "nara", title: "" }
       , { src: "IMG_20191028_164256~2.jpg", srct: "thumbs/IMG_20191028_164256~2.png", tags: "nara", title: "" }
+
+      // kyoto
+
+      , { src: "IMG_20191029_115705.jpg", srct: "thumbs/IMG_20191029_115705.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_120007.jpg", srct: "thumbs/IMG_20191029_120007.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_120022.jpg", srct: "thumbs/IMG_20191029_120022.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_120110.jpg", srct: "thumbs/IMG_20191029_120110.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_140107.jpg", srct: "thumbs/IMG_20191029_140107.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_140202.jpg", srct: "thumbs/IMG_20191029_140202.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_140249.jpg", srct: "thumbs/IMG_20191029_140249.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_142445.jpg", srct: "thumbs/IMG_20191029_142445.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_143820.jpg", srct: "thumbs/IMG_20191029_143820.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_143949.jpg", srct: "thumbs/IMG_20191029_143949.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_145200.jpg", srct: "thumbs/IMG_20191029_145200.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_192345.jpg", srct: "thumbs/IMG_20191029_192345.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_192621.jpg", srct: "thumbs/IMG_20191029_192621.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_192718.jpg", srct: "thumbs/IMG_20191029_192718.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_192752.jpg", srct: "thumbs/IMG_20191029_192752.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_192951.jpg", srct: "thumbs/IMG_20191029_192951.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_193022.jpg", srct: "thumbs/IMG_20191029_193022.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_193051.jpg", srct: "thumbs/IMG_20191029_193051.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191029_193847.jpg", srct: "thumbs/IMG_20191029_193847.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_103718.jpg", srct: "thumbs/IMG_20191030_103718.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_105838.jpg", srct: "thumbs/IMG_20191030_105838.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_110159.jpg", srct: "thumbs/IMG_20191030_110159.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_112119.jpg", srct: "thumbs/IMG_20191030_112119.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_112630.jpg", srct: "thumbs/IMG_20191030_112630.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_112934.jpg", srct: "thumbs/IMG_20191030_112934.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_113128.jpg", srct: "thumbs/IMG_20191030_113128.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_113237.jpg", srct: "thumbs/IMG_20191030_113237.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_113524.jpg", srct: "thumbs/IMG_20191030_113524.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_114223.jpg", srct: "thumbs/IMG_20191030_114223.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_130142.jpg", srct: "thumbs/IMG_20191030_130142.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_131726.jpg", srct: "thumbs/IMG_20191030_131726.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_132948.jpg", srct: "thumbs/IMG_20191030_132948.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_152639.jpg", srct: "thumbs/IMG_20191030_152639.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_153242.jpg", srct: "thumbs/IMG_20191030_153242.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_161224.jpg", srct: "thumbs/IMG_20191030_161224.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_163908~3.jpg", srct: "thumbs/IMG_20191030_163908~3.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_182718~3.jpg", srct: "thumbs/IMG_20191030_182718~3.png", tags: "kyoto", title: "" }
+      , { src: "IMG_20191030_184051~2.jpg", srct: "thumbs/IMG_20191030_184051~2.png", tags: "kyoto", title: "" }
 
     ]
   })
